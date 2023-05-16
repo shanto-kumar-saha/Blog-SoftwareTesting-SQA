@@ -6,3 +6,8 @@ I have written a software testing blog where I tried to provide some ideas about
 
 Link:
 [Here is The Link of Software Manual Testing Blog](https://shantokumarsaha.blogspot.com/2023/03/software-testing.html)
+
+## Blog Screenshot-
+
+![Blog Post Screenshot](https://github.com/shantokumarsaha123/SQA-SoftwareTesting-Blog/assets/122052172/9fb18e7b-7ffa-4150-808e-4afe8a3cef16)
+
