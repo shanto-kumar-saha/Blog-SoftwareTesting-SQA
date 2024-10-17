@@ -3,7 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Blog-SoftwareTesting-SQA/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
 ## 📝 Description 
-I have written a software testing blog where I tried to provide some ideas about various types of software testing topics. I have added my blog link in this repository.
+Welcome to my repository! Here, you'll find a collection of software testing resources and insights. I write about various testing topics, including methodologies, tools, and best practices in software quality assurance. You can also find my articles on Hashnode for practical tips and insights on the feild of software quality assurance. Whether you’re a beginner or an experienced tester, this repository aims to provide valuable information to elevate your testing practices.
 
 Blog Link:
 [Click on the Link of Different Testing Concept Blog](https://shanto-kumar-saha.hashnode.dev/?source=top_nav_blog_home)
