@@ -12,7 +12,8 @@ Blog Link:
 
 ## 🧐 Blog Screenshot-
 
-!Different Testing Concept Blog Post Screenshot](https://github.com/user-attachments/assets/f7efac13-24b3-47ed-a2d7-c17184d51024))
+![Hashnode Blog Post](https://github.com/user-attachments/assets/f7efac13-24b3-47ed-a2d7-c17184d51024)
+
 
 ![Software Testing Concept Blog Post Screenshot](https://github.com/shantokumarsaha123/SQA-SoftwareTesting-Blog/assets/122052172/9fb18e7b-7ffa-4150-808e-4afe8a3cef16)
 
